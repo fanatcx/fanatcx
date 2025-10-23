@@ -1,4 +1,4 @@
-University Student, Software Engineering | Focused on backend technology and apple development. 
+University Student, Software Engineering Major | Focused on backend technology and ios/macos development. 
 On the side, building clean, practical projects while grinding through boot.dev.
 Creating my own projects and ideas along the way
 
@@ -10,17 +10,18 @@ Creating my own projects and ideas along the way
 </p>
 
 ### Projects
-- [StudyBuddy](https://github.com/fanatcx/StudyBuddy) — A personal project, this discord bot is designed to support focused studying through Pomodoro timers, flashcards, and quizzes.  
 - [StaticSiteGen](https://github.com/fanatcx/StaticSiteGen) — Converts Markdown into HTML with Python.  
 - [Agentic AI](https://github.com/fanatcx/Agentic-AI) — An AI agent that reads, updates, and runs code using the Gemini API.  
 - [BookBot](https://github.com/fanatcx/BookBot) — A command-line program that analyzes text for word and character frequencies.  
 - [WebFlyx](https://github.com/fanatcx/WebFlyx) — A Boot.dev project centered on learning GitHub fundamentals and Markdown workflows.
+- [StudyBuddy](https://github.com/fanatcx/StudyBuddy) — This discord bot is designed to support focused studying through Pomodoro timers, flashcards, and quizzes.  
 
 ---
 
 ### About Me
-- ⚡ Learning **Python**, **Go**, and backend architecture. Also learning **Swift** and **SwiftUI**.  
-- ⚡ Focused on clean, maintainable code first. 
+- Learning **Python**, **Go**, and backend architecture. Also learning **Swift** and **SwiftUI**.  
+- Focused on clean, maintainable code first.
+- Have a vision and future ideas that I want to capitalize on using code. 
 
 
 
