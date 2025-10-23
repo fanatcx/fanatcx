@@ -14,8 +14,7 @@ Creating my own projects and ideas along the way.
 - [Agentic AI](https://github.com/fanatcx/Agentic-AI) — An AI agent that reads, updates, and runs code using the Gemini API.  
 - [BookBot](https://github.com/fanatcx/BookBot) — A command-line program that analyzes text for word and character frequencies.  
 - [WebFlyx](https://github.com/fanatcx/WebFlyx) — A Boot.dev project centered on learning GitHub fundamentals and Markdown workflows.
-- [StudyBuddy](https://github.com/fanatcx/StudyBuddy) — This discord bot is designed to support focused studying through Pomodoro timers, flashcards, and quizzes.  
-
+- [StudyBuddy](https://github.com/fanatcx/StudyBuddy) — This discord bot is designed to support focused studying through Pomodoro timers.
 ---
 
 ### About Me
