@@ -11,7 +11,7 @@ Creating my own projects and ideas along the way.
 
 ### Projects
 - [StaticSiteGen](https://github.com/fanatcx/StaticSiteGen) — Converts Markdown into HTML with Python.  
-- [Agentic AI](https://github.com/fanatcx/Agentic-AI) — An AI agent that reads, updates, and runs code using the Gemini API.  
+- [Agentic AI](https://github.com/fanatcx/AgenticAI) — An AI agent that reads, updates, and runs code using the Gemini API.  
 - [BookBot](https://github.com/fanatcx/BookBot) — A command-line program that analyzes text for word and character frequencies.  
 - [WebFlyx](https://github.com/fanatcx/WebFlyx) — A Boot.dev project centered on learning GitHub fundamentals and Markdown workflows.
 - [StudyBuddy](https://github.com/fanatcx/StudyBuddy) — This discord bot is designed to support focused studying through Pomodoro timers.
