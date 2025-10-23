@@ -1,12 +1,12 @@
-University Student, Software Engineering Major | Focused on backend technology and ios/macos development. 
+University Student, Software Engineering Major | Focused on backend technology and iOS/macOS development. 
 On the side, building clean, practical projects while grinding through boot.dev.
-Creating my own projects and ideas along the way
+Creating my own projects and ideas along the way.
 
 ---
 
 ### Boot.dev Progress
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/bca76a19-c277-43b5-a2d3-4815a2a2f13d/thumbnail" alt="Boot.dev progress graph" width=25% >
+  <img src="https://api.boot.dev/v1/users/public/bca76a19-c277-43b5-a2d3-4815a2a2f13d/thumbnail" alt="Boot.dev progress graph" width=35% >
 </p>
 
 ### Projects
