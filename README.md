@@ -1,6 +1,6 @@
 University Student, Software Engineering | Focused on backend technology and apple development. 
-On the side, building clean, practical projects while grinding through [Boot.dev](https://www.boot.dev) 🧩
-Creating my own project and idea along the way
+On the side, building clean, practical projects while grinding through boot.dev
+Creating my own project and ideas along the way
 
 ---
 
@@ -18,7 +18,7 @@ Creating my own project and idea along the way
 ---
 
 ### About Me
-- 🐍 Learning **Python**, **Go**, and backend architecture. Also learning **Swift** and **SwiftUI**.  
+- Learning **Python**, **Go**, and backend architecture. Also learning **Swift** and **SwiftUI**.  
 - ⚡ Focused on clean, maintainable code first. 
 
 
