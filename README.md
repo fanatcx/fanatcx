@@ -1,4 +1,4 @@
-University Student, Software Engineering Major | Focused on backend technology and iOS/macOS development. 
+University Student, Software Engineering Major | Focused on backend technology and security. 
 On the side, building clean, practical projects while grinding through boot.dev.
 Creating my own projects and ideas along the way.
 
