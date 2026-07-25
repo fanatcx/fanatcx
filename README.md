@@ -14,10 +14,9 @@ Software Engineering student focused on **backend development** and **security**
 
 ### Projects
 
-- **[Agentic AI](https://github.com/fanatcx/AgenticAI)** — AI agent that reads, edits, and runs code via the Gemini API.
-- **[StaticSiteGen](https://github.com/fanatcx/StaticSiteGen)** — Static site generator that converts Markdown to HTML, written in Python.
-- **[StudyBuddy](https://github.com/fanatcx/StudyBuddy)** — Discord bot with Pomodoro timers for focused study sessions.
 - **[Pokédex](https://github.com/fanatcx/pokedexcli)** — A pokedex cli written in go using pokeapi.co to fetch data. Implements caching for performance.
+- **[StaticSiteGen](https://github.com/fanatcx/StaticSiteGen)** — Static site generator that converts Markdown to HTML, written in Python.
+- **[Agentic AI](https://github.com/fanatcx/AgenticAI)** — AI agent that reads, edits, and runs code via the Gemini API.
 
 ---
 
