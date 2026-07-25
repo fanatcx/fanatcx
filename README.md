@@ -22,6 +22,6 @@ Software Engineering student focused on **backend development** and **security**
 
 ### About Me
 
-- Going deep on **Go** and backend architecture — REST APIs, databases, and auth.
+- Going deep on **Go** and backend architecture — REST APIs, databases, and auth as well as python.
 - Studying for **CompTIA Security+**.
 - Writing clean, maintainable code and shipping real tools.
