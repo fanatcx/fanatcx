@@ -17,7 +17,7 @@ Software Engineering student focused on **backend development** and **security**
 - **[Pokédex](https://github.com/fanatcx/pokedexcli)** — A pokedex cli written in go using pokeapi.co to fetch data. Implements caching for performance.
 - **[StaticSiteGen](https://github.com/fanatcx/StaticSiteGen)** — Static site generator that converts Markdown to HTML, written in Python.
 - **[Agentic AI](https://github.com/fanatcx/AgenticAI)** — AI agent that reads, edits, and runs code via the Gemini API.
-- **[RSS Aggregator(Gator)](https://github.com/fanatcx/gator)** - Aggregator for RSS feeds using Go/SQL, in progress.
+- **[Gator](https://github.com/fanatcx/gator)** - Aggregator for RSS feeds using Go/SQL, in progress.
 
 ---
 
